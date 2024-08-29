@@ -1,5 +1,5 @@
 ### Olá! Sou Serena! 🧠 
-Eu sou uma profissional Fullstrack,
+Eu sou uma profissional Fullstack,
 adoro desenvolver web sites, experiência do usuário e design web. 
 Atendo somente brasileiros independente do idioma.
 
